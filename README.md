@@ -80,5 +80,6 @@ The code will create an analysis.txt file as long as the folder structure is cor
 * Pycode : Made use of functions, kwargs-no default value, code shows passing of 2 acceptable kwarg values, reading and writing to files.
 - - -
 csv files from Trilogy
+By SherryK
 
 
