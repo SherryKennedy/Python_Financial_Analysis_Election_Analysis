@@ -22,6 +22,8 @@ Two python data analysis, using Python 3.8.8, using functions, kwargs and readin
 
 ## PyBank
 
+![Image of Dollar Bill](revenue-per-lead.png)
+
 * Created a Python script [main.py](PyBank/main.py) for analyzing the financial records of a company. A set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 
 * Created a Python script that analyzes the records to calculate each of the following:
@@ -49,6 +51,8 @@ The code will create an analysis.txt file as long as the folder structure is cor
 * NOTE: used encoding if WindowsOS, Or special chars printing,ie) with io.open("output_file.txt", mode='w', encoding='utf-8') as f:
 
 ## PyPoll
+
+![Image of Polling Station Sign](Vote_counting.png)
 
 * Modernizing a vote counting process to get an analysis of the resulsts.
 
